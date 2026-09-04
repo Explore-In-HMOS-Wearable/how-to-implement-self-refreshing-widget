@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "widget_label",
+      "value": "Widget Example"
+    },
+    {
+      "name": "widget_description",
+      "value": "Widget Description"
+    },
+    {
+      "name": "widget_display_name",
+      "value": "Widget Display Name"
+    }
+  ]
+}
